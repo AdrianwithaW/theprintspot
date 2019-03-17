@@ -157,6 +157,7 @@ socket.connection.bind('connected', function() {
           </DieCutLabel>`
 
       dymo.print('DYMO LabelWriter 450 @ The Beer Spot Mac Mini', label);
+      console.log('Label data dispatched.');
   });
 
 });
