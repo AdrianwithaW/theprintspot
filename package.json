@@ -1,0 +1,22 @@
+{
+  "name": "theprintspot",
+  "version": "1.0.0",
+  "description": "Label Printer for The Beer Spot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianwithaW/theprintspot.git"
+  },
+  "author": "Adrian Wills",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianwithaW/theprintspot/issues"
+  },
+  "homepage": "https://github.com/AdrianwithaW/theprintspot#readme",
+  "dependencies": {
+    "dymojs": "^1.1.1"
+  }
+}
